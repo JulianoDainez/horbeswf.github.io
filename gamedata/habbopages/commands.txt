@@ -1,0 +1,33 @@
+Comandos do Horbe Hotel
+<span class="padding-top"><br></span><h3>Comandos</h3><span class="padding-bottom"><br></span>
+<span class="padding-top">
+<br></span>
+<p><b>:info</b> Veja as infos do Horbe</p>
+<p><b>:online</b> Para ver quantos usuários online</p>
+<p><b>:mutepets</b> Ignorar a fala dos pets</p>
+<p><b>:mutebots</b> Ignorar a fala de Bot</p>
+<p><b>:diagonal</b> Ativa/Desativa diagonal do quarto</p>
+<p><b>:coords</b> Ve as cordenadas atuais</p>
+<p><b>o/</b> ou <b>_o/</b> Acenar</p>
+<p><b>:afk</b> Ficar invativo e mostrar mensagem automatica</p>
+<p><b>:idle</b> Ficar dormindo</p>
+<p><b>_b</b> Joinha</p>
+<p><b>:faceless</b> Ficar sem cara</p>
+<p><b>:sign número 0-10</b> Mostra placa com número</p>
+<p><b>:sign número 11-18</b> Mostra placa especial</p>
+<p><b>:hidewired</b> Esconder/Aparecer os mobis wired</p>
+<p><b>:pickall</b> Recolhe todos os seus mobis do quarto</p>
+<p><b>:ejectall</b> Recolhe todos os mobis de um quarto de grupo para o inventário de seus respectivos donos</p>
+<p><b>:chooser</b> Abre a ferramenta de seleção de personagens</p>
+<p><b>:furni</b> Abre a ferramenta de seleção de mobis</p>
+<p><b>:pull usuário</b> Empurrar um usuário</p>
+<p><b>:push usuário</b> Puxar um usuário</p>
+<p><b>:kick usuário</b> Expulsa um Horbe em particular, caso você seja o dono do quarto</p>
+<p><b>:floor</b> Ferramenta de editar o quarto</p>
+<p><b>:setmax</b> Aumentar capacidade do quarto</p>
+<p><b>:reload</b> Recarregar o quarto</p>
+<p><b>:empty</b> Limpar o seu inventário</p>
+<p><b>:emptypets</b> Limpar os mascotes do seu inventário</p>
+<p><b>:emptybots</b> Limpar os bots do seu inventário</p>
+
+<span class="padding-bottom"><br></span>
