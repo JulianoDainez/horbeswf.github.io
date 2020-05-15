@@ -164,10 +164,10 @@ hotel.teaser=
 hotelview.banner.url=http://www.habbo.com.br/gamedata/supersecret
 identityTracking.enabled=true
 identityinformationtool.url=https://theallseeingeye.sulake.com/ase/habbo/br/housekeeping/intra/hobba/identity_log.action?identityId=
-image.library.badgepart.url=ttps://julianodainez.github.io/swf/c_images/Badgeparts/
-image.library.catalogue.url=ttps://julianodainez.github.io/swf/c_images/catalogue/
-image.library.playlist.url=ttps://julianodainez.github.io/swf/c_images/playlist/
-image.library.questing.url=ttps://julianodainez.github.io/swf/c_images/Quests/
+image.library.badgepart.url=https://julianodainez.github.io/swf/c_images/Badgeparts/
+image.library.catalogue.url=https://julianodainez.github.io/swf/c_images/catalogue/
+image.library.playlist.url=https://julianodainez.github.io/swf/c_images/playlist/
+image.library.questing.url=https://julianodainez.github.io/swf/c_images/Quests/
 image.library.url.server=https://julianodainez.github.io/swf/c_images/
 image.library.url.stickers=https://julianodainez.github.io/swf/c_images/
 image.library.url=https://julianodainez.github.io/swf/c_images/
