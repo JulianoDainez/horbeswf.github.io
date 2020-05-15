@@ -1,5 +1,5 @@
 activity.point.display.enabled=true
-ads.domain=https://horbe.net/light-swf
+ads.domain=https://julianodainez.github.io/swf
 app.review.triggers=purchase,respect
 app.review.url.android=
 app.review.url.ios=itms-apps://itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?type=Purple+Software&id=794866182
@@ -16,7 +16,7 @@ avatareditor.show.clubitems.dimmed=true
 avatareditor.show.clubitems.first=true
 avatareditor.support.sellablefurni=true
 badge.display.excluded.badgeCodes=ADM,AMB,BAW01,BAW02,BAW03,BAW04
-badge.image.path=https://horbe.net/light-swf/c_images/album1584
+badge.image.path=https://julianodainez.github.io/swf/c_images/album1584
 billboard.adwarning.left.url=AdWarningsUK/ad_warning_L.png
 billboard.adwarning.right.url=AdWarningsUK/ad_warning_R.png
 builders.club.furniture.placement.group.room.enabled=true
@@ -113,7 +113,7 @@ duckets.promo.enabled=false
 duckets.upper_limit=1300
 dynamic.download.name.template=%revision%/hh_furni_xx_%typeid%.cct
 dynamic.download.samples.template=%revision%/%typeid%.cct
-dynamic.download.url=https://horbe.net/light-swf/dcr/hof_furni/
+dynamic.download.url=https://julianodainez.github.io/swf/dcr/hof_furni/
 email.verification.url=https://horbe.net/light-swf/profile?tab=3
 embed.showInRoomInfo=true
 eventinfo.enabled=true
@@ -164,13 +164,13 @@ hotel.teaser=
 hotelview.banner.url=http://www.habbo.com.br/gamedata/supersecret
 identityTracking.enabled=true
 identityinformationtool.url=https://theallseeingeye.sulake.com/ase/habbo/br/housekeeping/intra/hobba/identity_log.action?identityId=
-image.library.badgepart.url=https://horbe.net/light-swf/c_images/Badgeparts/
-image.library.catalogue.url=https://horbe.net/light-swf/c_images/catalogue/
-image.library.playlist.url=https://horbe.net/light-swf/c_images/playlist/
-image.library.questing.url=https://horbe.net/light-swf/c_images/Quests/
-image.library.url.server=https://horbe.net/light-swf/c_images/
-image.library.url.stickers=https://horbe.net/light-swf/c_images/
-image.library.url=https://horbe.net/light-swf/c_images/
+image.library.badgepart.url=ttps://julianodainez.github.io/swf/c_images/Badgeparts/
+image.library.catalogue.url=ttps://julianodainez.github.io/swf/c_images/catalogue/
+image.library.playlist.url=ttps://julianodainez.github.io/swf/c_images/playlist/
+image.library.questing.url=ttps://julianodainez.github.io/swf/c_images/Quests/
+image.library.url.server=https://julianodainez.github.io/swf/c_images/
+image.library.url.stickers=https://julianodainez.github.io/swf/c_images/
+image.library.url=https://julianodainez.github.io/swf/c_images/
 infostand.motto.change.enabled=true
 infostand.report.show=1
 infostand.use.button.enabled=true
